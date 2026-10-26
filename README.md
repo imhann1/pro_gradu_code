@@ -5,4 +5,6 @@ The process of the experiment in the notebooks:
 
 1. prompt_collection.ipynb
 2. model_response.ipynb
-3. manual_test-set.ipynb
+3. manual_test_set.ipynb
+4. qwen_evaluator_1st_version.ipynb
+5. evaluator_comparison.ipynb
