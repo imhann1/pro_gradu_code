@@ -22,3 +22,5 @@ This notebook contains the first version of the system prompt, where the LLM-as-
 This notebook contains the comparison of the first and second system prompting methods for the LLM-as-a-judge. The results of the final LLM-as-a-judge's performance (accuracies, confusion matrices) in the thesis come from this notebook.
 ## 6. Qwen_evaluations.ipynb
 This notebook contains the final chosen method for prompting the LLM-as-a-judge and the final process of collecting model response evaluations. In the second part of the notebook are the results and visualizations of model response evaluations referenced in the thesis "Results" section.
+## 7. manual_assesment.ipynb
+This notebook contains process of collecting the subsets used for the manual assesment part of the thesis "Results" section
