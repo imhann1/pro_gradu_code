@@ -4,7 +4,7 @@ Repository for notebooks used in master's thesis
 The process of the experiment in the notebooks:
 
 ## 1. prompt_collection.ipynb
-This notebook contains the process of creating a advice-seeking professional prompt dataset, the dataset used to examine response behavior of models in the thesis experiment. The prompts were collected from four different source datasets:
+This notebook contains the process of creating an advice-seeking professional prompt dataset, the dataset used to examine response behavior of models in the thesis experiment. The prompts were collected from four different source datasets:
 
 The medical prompts were collected from: https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k
 The legal prompts were collected from: https://huggingface.co/datasets/jonathanli/legal-advice-reddit
